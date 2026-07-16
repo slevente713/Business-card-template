@@ -4,4 +4,4 @@ Ez a HTML fájl arra jó hogy beleírod a fiókjaid linkjeit, és lesz egy onlin
 
 ## Hogyan használd? How to use?
 
-Keresd meg az <a href> részt, és ott eggyértelműen le van írva, mit kell csinálni. Look for the <a href> section, and there, you can see what to do from my comments.
+Keresd meg az a href részt, és ott eggyértelműen le van írva, mit kell csinálni. Look for the a href section, and there, you can see what to do from my comments.
